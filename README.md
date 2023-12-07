@@ -1,2 +1,2 @@
 # maven
-this is from maven
+this is from maven repository
